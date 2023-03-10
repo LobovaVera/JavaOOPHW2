@@ -1,6 +1,6 @@
 package HWRefactor;
 
-public class Computer {
+public abstract class Computer {
     protected Integer ID;
     protected String name;
     protected Integer ram;
