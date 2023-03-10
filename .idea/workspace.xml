@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c770bf42-774d-4ecc-9063-5ad8a1ee6717" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/Buyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/BuyerBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/MarketBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/QueueBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HWRefactor/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HWRefactor/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HWRefactor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +48,20 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Илья/IdeaProjects/classworkJavaOOP2/src/main/java/HWRefactor",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Илья\IdeaProjects\classworkJavaOOP2\src\main\java\HWRefactor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Илья\IdeaProjects\classworkJavaOOP2" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="HWJavaOOP2Market" />
@@ -86,6 +86,14 @@
       <option name="presentableId" value="Default" />
       <updated>1678123957908</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1678449189510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678449189510</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
